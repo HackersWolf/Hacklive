@@ -31,8 +31,14 @@ This is a semi-automated hacking program installation script, not included in th
 :wrench: | [__]() |  
 :wrench: | [__]() | 
 
-**legend**
+**Legend**
 - :heavy_check_mark: > Running
 - :warning: > Not running proprely
 - :wrench: > Comming Soon
 - :x: > Not running / Deleted
+
+### About
+- Created by [_JorisUKN_](https://github.com/JorisUKN) :fr:
+- [_Donate_](blank) cheer's :beers:
+- Version 0.0.1
+- MAJ > 05 Sept. 2018
