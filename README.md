@@ -1,13 +1,13 @@
 # HackLive
 This is a semi-automated hacking program installation script, not included in the Live version of Kali Linux
 
-:construction: **UNDER CONSTRUCTION** :construction:
+:construction: **UNDER CONSTRUCTION** :construction: **NO SCRIPT FOR THE MOMENT... YOU MUST BE PATIENT** :construction:
 
 ### How to use
 
-- First, clone the repository with `https://github.com/JorisUKN/hacklive`
-- Secondly, run this command `cd hacklive && chmod +x hacklive.sh && ./hacklive.sh`
-- Thirdly, chose the programs to install from the list and you done !  :grinning:
+- ~~First, clone the repository with `https://github.com/JorisUKN/hacklive`~~
+- ~~Secondly, run this command `cd hacklive && chmod +x hacklive.sh && ./hacklive.sh`~~
+- ~~Thirdly, chose the programs to install from the list and you done !~~  :grinning:
 
 ### List of programs
 :package: | Names | Descriptions
