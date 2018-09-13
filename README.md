@@ -1,6 +1,8 @@
 # HackLive
 This is a semi-automated hacking program installation script, not included in the Live version of Kali Linux
 
+[![HitCount](http://hits.dwyl.io/jorisukn/hacklive.svg)](http://hits.dwyl.io/jorisukn/hacklive)
+
 ![Image of Banner](http://immediatefuture.co.uk/wp-content/uploads/2015/01/TB-HACK-Blog-Banner.jpg)
 
 :construction: **UNDER CONSTRUCTION** :construction: **NO SCRIPT FOR THE MOMENT... YOU MUST BE PATIENT** :construction:
