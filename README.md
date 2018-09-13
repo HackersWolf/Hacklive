@@ -2,7 +2,7 @@
 This is a semi-automated hacking program installation script, not included in the Live version of Kali Linux
 
 [![HitCount](http://hits.dwyl.io/jorisukn/hacklive.svg)](http://hits.dwyl.io/jorisukn/hacklive) 
-[![BuildStatus](https://img.shields.io/badge/Build-In_Progress-FF8C00.svg?style=square)]
+![BuildStatus](https://img.shields.io/badge/Build-In_Progress-FF8C00.svg?style=square)
 
 ![Image of Banner](http://immediatefuture.co.uk/wp-content/uploads/2015/01/TB-HACK-Blog-Banner.jpg)
 
