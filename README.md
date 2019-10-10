@@ -10,7 +10,7 @@ This is a semi-automated hacking program installation script, not included in th
 
 ### How to use
 
-- ~~First, clone the repository with `https://github.com/JorisUKN/hacklive`~~
+- ~~First, clone the repository with `https://github.com/LurkedWolf/hacklive`~~
 - ~~Secondly, run this command `cd hacklive && chmod +x hacklive.sh && ./hacklive.sh`~~
 - ~~Thirdly, chose the programs to install from the list and you done !~~  :grinning:
 
@@ -43,7 +43,7 @@ This is a semi-automated hacking program installation script, not included in th
 - :x: > Not running / Deleted
 
 ### About
-- Created by [_JorisUKN_](https://github.com/JorisUKN) :fr:
+- Created by [_LurkedWolf_](https://github.com/LurkedWolf) :fr:
 - [_Donate_](blank) cheer's :beers:
 - Version 0.0.1
 - MAJ > 05 Sept. 2018
