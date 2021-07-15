@@ -43,7 +43,7 @@ This is a semi-automated hacking program installation script, not included in th
 - :x: > Not running / Deleted
 
 ### About
-- Created by [_LurkedWolf_](https://github.com/LurkedWolf) :fr:
+- Created by [_HackersWolf_](https://github.com/HackersWolf) :fr:
 - [_Donate_](blank) cheer's :beers:
 - Version 0.0.1
-- MAJ > 05 Sept. 2018
+- MAJ > 15 July 2021
